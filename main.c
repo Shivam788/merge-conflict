@@ -1,15 +1,6 @@
-pseudo code
+main()
 {
-Initial Function()
-{
-  //Sample Code
-}
 
-Initial Function2()
-{
- //Sample Code
-}
-
-
+// code for main
 
 }
